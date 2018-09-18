@@ -1,0 +1,17 @@
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+} 
+body {
+    border: 1px solid black;
+    padding: 25px;
+    background-color: paleturquoise;
+}
+.Background { 
+    background-color: gray;
+}
